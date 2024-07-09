@@ -43,7 +43,7 @@ a reliable user experience
 - Maintained a typescript mono-repo, using Turberepo, to reduce deployment and developer onboarding times by 30%
 
 #### Core Java Instructor
-*CollaboraIT Inc.*, Jul. 2020 - Oct. 2020
+*CollaboraIT Inc*, Jul. 2020 - Oct. 2020
 - Assisted the senior instructor in training cohorts of Java developers monthly, teaching core concepts and design
 patterns.
 - Taught advanced Object and Component design concepts such as threading, polymorphism, interface design, and
