@@ -62,23 +62,15 @@ _CollaboraIT Inc_, Jul. 2020 - Oct. 2020
 
 ### [maccel](https://github.com/Gnarus-G/maccel)
 
-Mouse acceleration **driver** and kernel module for **Linux** with a simple Terminal UI.
+Mouse acceleration **driver** and kernel module for **Linux** with a simple Terminal UI. [Expository Write-Up](https://bytin.tech/blog/maccel)
 
 - _C, Rust, Astro, Typescript_
-- [Expository Write-Up](https://bytin.tech/blog/maccel)
 
 ### [rested](https://github.com/Gnarus-G/rested)
 
-Language/**Interpreter** for easily defining and running requests to an HTTP server with **language server **integrations.
+Language/**Interpreter** for easily defining and running requests to an HTTP server with **language server **integrations. [Expository Write-Up](https://bytin.tech/blog/rested)
 
 - _Rust, REST, Lua, LSP_
-- [Expository Write-Up](https://bytin.tech/blog/rested)
-
-### [looc.live](https://github.com/Gnarus-G/looc.live)
-
-A **webRTC** app for one-on-one screen-sharing sessions.
-
-- _Typescript, Svelte, Node.JS_
 
 ### [mynd](https://github.com/Gnarus-G/mynd)
 
@@ -89,16 +81,15 @@ A todo app, in the terminal; simple and Frictionless, with an optional GUI Deskt
 ### [sciare](https://github.com/Gnarus-G/sciare)
 
 CLI tool to manage documents, allowing for semantic searching, and prompting using the
-**RAG** (Retrieval Augmented Generation) strategy to use relevant info from documents to extend the LLM’s inference.
+**RAG** strategy.
 
 - _Rust, Ollama, SQLite, llama2_
 
 ### [cnat](https://github.com/Gnarus-G/cnat)
 
-A CLI tool to systematically **change** all the **class names** in your codebase.
+A CLI tool to systematically **change** all the **class names** in your codebase. [Expository Write-Up](https://bytin.tech/blog/cnat)
 
 - _Rust, Typescript, Tailwind_
-- [Expository Write-Up](https://bytin.tech/blog/cnat)
 
 ## Skills
 
