@@ -9,20 +9,24 @@ over 10K downloads, and 50+ GitHub stars.
 
 ## Employment
 
-#### Full Stack Developer
+#### Lead Engineer
 
-_Volute Technologies_, Nov 2021 - Present
+_Volute Technologies_, Jan 2023 - Present
 
 - **Led the development** of user experiences (Text, A/V, Media) to facilitate communications within discussion forums.
-- Coordinated across teams, both internal and external, to build and integrate new subsystems concurrently
 - Contributed to **strategizing** the feature development **roadmap**, alongside the Chief executives.
-- Optimized application performance, **improving the Lighthouse score** from 17 to 82, achieving a speed index of 1.9
-- Increased development velocity by moving from Create React App (CRA) v4 setup to Next.js 13, resulting in a **6x**
-  reduction in build times.
-- Sped up **GitHub Actions** build to detect and address issues quicker in the development process, from 12 min average to
-  a **6 min** average
+- Coordinated across teams, both internal and external, to build and integrate new subsystems concurrently
 - **Identified** user friction and **inquiries** by **parsing questions** within posts in the forums using an **LLM** (GPT-3.5) and
   reporting them, to indirectly increase user interactions by 20%.
+- **Ameliorated user engagement** by leveraging Large Language Models with the **RAG** strategy to provide the ideal
+  experience for searching through forums.
+
+#### Full-stack Engineer
+
+_Volute Technologies_, Jan 2022 - Jan 2023
+
+- Sped up **GitHub Actions** build to detect and address issues quicker in the development process, from 12 min average to
+  a **6 min** average
 - **Revealed** business continuity gaps by developing Analytics widgets, using React, Recharts, Tailwind, NodeJs, and
   Azure Postgres Flexible Server.
 - **Improved** system stability by implementing end-to-end type-safe wrappers for emitting and handling system events
@@ -30,12 +34,19 @@ _Volute Technologies_, Nov 2021 - Present
 - **Led** efforts to migrate to Typescript, and change libraries and common practices to **improve maintainability**,
   eliminating severe bug reports from 1 per quarter to 0.
 - Developed CLI tools and scripts, in Rust or Nodejs, to automate developer tasks, thus improving velocity by 25%
-- **Ameliorated user engagement** by leveraging Large Language Models with the **RAG** strategy to provide the ideal
-  experience for searching through forums.
 - Maintained an **AKS** (Kubernetes cluster) hosted on **Azure**, resolving region migrations, investigating memory leaks,
   debugging Kubernetes deployments, etc...
 
-#### Full Stack Developer
+#### Front-end Engineer
+
+_Volute Technologies_, Nov 2021 - Jan 2022
+
+- Optimized application performance, **improving the Lighthouse score** from 17 to 82, achieving a speed index of 1.9
+- Increased development velocity by moving from Create React App (CRA) v4 setup to Next.js 13, resulting in a **6x**
+  reduction in build times.
+- Implemented an audio/video meeting feature, with webRTC, to facilitate user collaborations, thereby increasing user engagement.
+
+#### Full-stack Engineer
 
 _Project New Social LLC_, Feb 2021 - Nov 2021
 
@@ -45,7 +56,7 @@ _Project New Social LLC_, Feb 2021 - Nov 2021
   month, using **Docker** containers run on a VPS with Docker Swarm
 - Crafted reusable and **responsive UI** components using CSS, Typescript, React.js, and @material-ui to maximize on
   a reliable user experience
-- Maintained a typescript **monorepo**, using Turberepo, to reduce deployment and developer onboarding times by 30%
+- Organized a typescript **monorepo**, using Turberepo, to reduce deployment and developer onboarding times by 30%
 
 #### Core Java Instructor
 
