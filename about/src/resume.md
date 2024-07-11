@@ -13,7 +13,7 @@ over 10K downloads, and 50+ GitHub stars.
 
 #### Lead Engineer
 
-_Volute Technologies_ Jan 2023 - Present
+_Volute_ Jan 2023 - Present
 
 - **Led the development** of user experiences (Text, A/V, Media) to facilitate communications within discussion forums.
 - Coordinated across teams, both internal and external, to build and integrate new subsystems concurrently
@@ -24,7 +24,7 @@ _Volute Technologies_ Jan 2023 - Present
 
 #### Full-stack Engineer
 
-_Volute Technologies_ Jan 2022 - Jan 2023
+_Volute_ Jan 2022 - Jan 2023
 
 - Sped up **GitHub Actions** build to detect and address issues quicker in the development process, from 12 min average to
   a **6 min** average
@@ -40,7 +40,7 @@ _Volute Technologies_ Jan 2022 - Jan 2023
 
 #### Front-end Engineer
 
-_Volute Technologies_ Nov 2021 - Jan 2022
+_Volute_ Nov 2021 - Jan 2022
 
 - Optimized application performance, **improving the Lighthouse score** from 17 to 82, achieving a speed index of 1.9
 - Increased development velocity by moving from Create React App (CRA) v4 setup to Next.js 13, resulting in a **6x**
