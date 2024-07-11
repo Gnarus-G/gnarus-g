@@ -8,9 +8,52 @@ import Resume from "../resume.md"
 		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
 		<meta name="viewport" content="width=device-width" />
 		<meta name="generator" content={Astro.generator} />
-		<title>Astro</title>
+		<title>Resume - Ghislain</title>
 	</head>
-	<body class="prose lg:prose-xl p-4">
-     <Resume />
+
+
+	<body class="w-full max-w-full prose lg:prose-xl p-0"> 
+    <Resume />
 	</body>
+
 </html>
+
+<style is:global>
+  h1, h1 + p, h1 + p + p {
+    padding: 0;
+    margin: 0 !important;
+    text-align: center;
+  }
+
+  h1 + p > em {
+     display: block;
+  }
+
+  h4 + p {
+    display: flex;
+    justify-content: space-between;
+  }
+
+  h4, :not(h1 + p + p) + p, h3, h2, h5 {
+    padding: 0 1rem;
+  }
+
+  ul {
+    padding: 0 3rem !important;
+  }
+
+  h2#skills + p, h2#skills + p + p, h2#skills + p + p + p {
+    display: grid;
+    grid-template-columns: 10ch auto;
+  }
+
+  h3 + p {
+    padding: 0 1.5rem !important;
+  }
+
+  h3:has(+ p), h3 + p, h3 + p + ul {
+    margin: 0 !important;
+  }
+
+
+</style>
