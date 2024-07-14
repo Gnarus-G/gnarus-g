@@ -9,9 +9,9 @@ full-stack systems, aiming to deliver high-quality software solutions and contri
 culture of innovation and efficiency. Measurable contributor to Open Source tooling with
 over 10K downloads, and 50+ GitHub stars.
 
-## Employment
+## Work Experience
 
-#### Lead Engineer
+#### Senior Full-stack Engineer
 
 _Volute_ Jan 2023 - Present
 
@@ -50,6 +50,8 @@ _Volute_ Nov 2021 - Jan 2022
 #### Full-stack Engineer
 
 _Project New Social LLC_ Feb 2021 - Nov 2021
+
+Small startup/team where I was a junior but my responsibility were like one of a Tech lead:
 
 - **Designed and led** the development of a social media Progressive Web App to cheaply support **Mobile and Desktop
   devices from one code base** using Next.js, Node, Prisma, Postgres, and GraphQL
