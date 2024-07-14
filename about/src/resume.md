@@ -66,7 +66,7 @@ Small startup/team where I was a junior but my responsibility were like one of a
 _CollaboraIT Inc_ Jul. 2020 - Oct. 2020
 
 - Enabled the senior instructor in training cohorts of Java developers monthly, teaching core concepts and design
-  patterns, increasing the number of cohorts to pass through successfully by 50%
+  patterns, increasing the number of cohorts to pass through by 50%
 - Taught advanced Object and Component design concepts such as **threading**, **polymorphism**, interface design, and
   **SOLID** principles.
 - Designed a curriculum, in tandem with other instructors to rapidly upskill junior developers to be ready for
