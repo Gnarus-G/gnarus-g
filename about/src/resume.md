@@ -59,7 +59,7 @@ Small startup/team where I was a junior but my responsibility were like one of a
   month, using **Docker** containers run on a VPS with Docker Swarm
 - Crafted reusable and **responsive UI** components using CSS, Typescript, React.js, and @material-ui to maximize on
   a reliable user experience
-- Organized a typescript **monorepo**, using Turberepo, to reduce deployment and developer onboarding times by 30%
+- Managed a typescript **monorepo**, using Turberepo, to reduce deployment and developer onboarding times by 30%
 
 #### Core Java Instructor
 
