@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 -->
 ---
 <div align="center">
-<!--   <a href="https://github.com/Gnarus-G">
+  <a href="https://github.com/Gnarus-G">
     <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=gnarus-g&show_icons=true&include_all_commits=true&count_private=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" />
-  </a> -->
+  </a>
   
   <a href="https://github.com/Gnarus-G">
     <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gnarus-g&layout=compact&langs_count=8&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" />
