@@ -52,7 +52,7 @@ _Volute_ Nov 2021 - Jan 2022
 
 #### Full-stack Engineer
 
-_Project New Social LLC_ Oct 2020 - Nov 2021
+_Project New Social LLC_ Feb 2020 - Nov 2021
 
 Small startup/team where I was a junior but my responsibility were like one of a Tech lead:
 
@@ -125,8 +125,8 @@ Tech Stack: _Rust, Ollama, Generative AI, SQLite, llama2_
 
 #### Montgomery College
 
-_General Studies, STEM_ Associates
+_Associates: General Studies, STEM_ 2018 - 2020
 
 #### University of Maryland
 
-_Computer Engineering_ Ongoing
+_BA: Computer Engineering_ 2020 - Presently
