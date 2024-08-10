@@ -11,9 +11,9 @@ over 10K downloads, and 50+ GitHub stars.
 
 ## Work Experience
 
-#### Senior Full-stack Engineer
+#### Full-stack Engineer
 
-_Volute_ Jan 2023 - Present
+_Volute_ Jan 2022 - Present
 
 - **Led the development** of user experiences (Text, A/V, Media) to facilitate communications within discussion forums.
 - Coordinated across teams, both internal and external, to build and integrate new subsystems concurrently
@@ -21,14 +21,6 @@ _Volute_ Jan 2023 - Present
   reporting them, to indirectly increase user interactions by 20%.
 - **Ameliorated user engagement** by leveraging Large Language Models with the **RAG** strategy to provide the ideal
   experience for searching through forums.
-
-Languages: _Typescript / Node.js / Javascript, Cypher, Python, Go, Rust_  
-Technologies: _Docker, Github Actions, PostgreSQL, Neo4j, MongoDB, Kubernetes, Helm, Prometheus, Redis, Nginx, React, Azure, AWS, Next.js, Jest, Tailwind, Git, Linux, Playwright, Cypress, Generative AI, WebRTC, 100ms SDK_
-
-#### Full-stack Engineer
-
-_Volute_ Jan 2022 - Jan 2023
-
 - Sped up **GitHub Actions** build to detect and address issues quicker in the development process, from 12 min average to
   a **6 min** average
 - **Revealed** business continuity gaps by developing Analytics widgets, using React, Recharts, Tailwind, NodeJs, and
@@ -40,6 +32,9 @@ _Volute_ Jan 2022 - Jan 2023
 - Developed CLI tools and scripts, in Rust or Nodejs, to automate developer tasks, improving velocity by 25%
 - Maintained an **AKS** (Kubernetes cluster) hosted on **Azure**, resolving region migrations, investigating memory leaks,
   debugging Kubernetes deployments, etc...
+
+Languages: _Typescript / Node.js / Javascript, Cypher, Python, Go, Rust_  
+Technologies: _Docker, Github Actions, PostgreSQL, Neo4j, MongoDB, Kubernetes, Helm, Prometheus, Redis, Nginx, React, Azure, AWS, Next.js, Jest, Tailwind, Git, Linux, Playwright, Cypress, Generative AI, WebRTC, 100ms SDK_
 
 #### Front-end Engineer
 
