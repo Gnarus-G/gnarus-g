@@ -121,7 +121,3 @@ Tech Stack: _Rust, Ollama, Generative AI, SQLite, llama2_
 #### Montgomery College
 
 _Associates: General Studies, STEM_ 2018 - 2020
-
-#### University of Maryland
-
-_BA: Computer Engineering_ 2020 - Presently
