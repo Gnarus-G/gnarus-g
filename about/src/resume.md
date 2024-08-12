@@ -79,9 +79,9 @@ _CollaboraIT Inc_ Jul. 2020 - Oct. 2020
 
 [_maccel_](https://github.com/Gnarus-G/maccel) Jan 2024 - Present
 
-Mouse acceleration **driver** and kernel module for **Linux** with a simple Terminal UI.
+Accessible pointer acceleration **driver** for **Linux** with a simple Terminal UI.
 
-Tech Stack: _C, Rust, Astro, Typescript_
+Tech Stack: _C, Rust, Astro, Typescript, Python, Shell_
 
 #### Language Designer / Compiler Engineer (Open Source)
 
