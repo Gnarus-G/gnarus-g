@@ -34,7 +34,7 @@ _Volute_ Jan 2022 - Present
   debugging Kubernetes deployments, etc...
 
 Languages: _Typescript / Node.js / Javascript, Cypher, Python, Go, Rust_  
-Technologies: _Docker, Github Actions, PostgreSQL, Neo4j, MongoDB, Kubernetes, Helm, Prometheus, Redis, Nginx, React, Azure, AWS, Next.js, Jest, Tailwind, Git, Linux, Playwright, Cypress, Generative AI, WebRTC, 100ms SDK_
+Technologies: _Docker, Github Actions, PostgreSQL, Neo4j, MongoDB, Kubernetes, Helm, Prometheus, Redis, Nginx, React, Azure, AWS, Next.js, Jest, Tailwind, Git, Linux, Playwright, Cypress, Generative AI, WebRTC, 100ms SDK, OpenAI_
 
 #### Front-end Engineer
 
