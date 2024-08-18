@@ -12,7 +12,7 @@ _Senior Full Stack Engineer_ Jan 2022 - Present
 - Coordinated across **3** teams, both internal and external, to build and integrate new subsystems concurrently
 - Identified user friction and inquiries by parsing questions within posts in the forums using an LLM (GPT-3.5) and
   reporting them, to indirectly increase user interactions by **20%**
-- Ameliorated user engagement by leveraging Large Language Models with the RAG strategy to provide the ideal
+- Increased user engagement by leveraging Large Language Models with the RAG strategy to provide the ideal
   experience for searching through forums
 - Sped up GitHub Actions build to detect and address issues quicker in the development process, from 12 min average to
   a **6 min** average
@@ -34,7 +34,7 @@ _Front End Engineer_ Nov 2021 - Jan 2022
   dynamically compressing images and applying windowing techniques to large lists
 - Increased development velocity by moving from Create React App (CRA) v4 setup to Next.js 13, resulting in a **6x**
   reduction in build times
-- Implemented an audio/video meeting feature, with webRTC, to facilitate user collaborations, used over 10,000 times
+- Implemented an audio/video meeting feature, with webRTC, to facilitate user collaborations, used by over **100+** users
 
 #### Project New Social LLC
 
@@ -65,7 +65,7 @@ _Core Java Instructor_ Jul. 2020 - Oct. 2020
 [_maccel_](https://github.com/Gnarus-G/maccel) Jan 2024 - Present
 
 - Created an open-source mouse pointer acceleration driver for Linux, using kernel modules, earning **40+** github stars
-- Leveraged a simple mathematical formula, implemented in C with fixed point notation, to run
+- Leveraged geometric algebra, implemented in C with fixed point notation, to run
   the acceleration fastly and consistently
 - Implemented the core driver as an input handler, being the **first** mouse acceleration driver
   for Linux that supports all mice
