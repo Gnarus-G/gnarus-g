@@ -1,123 +1,111 @@
 # Ghislain Deffo
 
-_College Park, MD_
-
 ghislain.deffo31@gmail.com • [Linkedin](https://linkedin.com/in/ghislainDeffo) • [Github](http://github.com/Gnarus-G) • [Blog](https://bytin.tech/blog)
-
-Empiricist software development professional with expertise in designing and maintaining
-full-stack systems, aiming to deliver high-quality software solutions and contribute to a
-culture of innovation and efficiency. Measurable contributor to Open Source tooling with
-over 10K downloads, and 50+ GitHub stars.
 
 ## Work Experience
 
-#### Full-stack Engineer
+#### Volute
 
-_Volute_ Jan 2022 - Present
+_Senior Full Stack Engineer_ Jan 2022 - Present
 
-- **Led the development** of user experiences (Text, A/V, Media) to facilitate communications within discussion forums.
-- Coordinated across teams, both internal and external, to build and integrate new subsystems concurrently
-- **Identified** user friction and **inquiries** by **parsing questions** within posts in the forums using an **LLM** (GPT-3.5) and
-  reporting them, to indirectly increase user interactions by 20%.
-- **Ameliorated user engagement** by leveraging Large Language Models with the **RAG** strategy to provide the ideal
-  experience for searching through forums.
-- Sped up **GitHub Actions** build to detect and address issues quicker in the development process, from 12 min average to
+- Led the development of user experiences (Text, A/V, Media) to facilitate communications within discussion forums
+- Coordinated across **3** teams, both internal and external, to build and integrate new subsystems concurrently
+- Identified user friction and inquiries by parsing questions within posts in the forums using an LLM (GPT-3.5) and
+  reporting them, to indirectly increase user interactions by **20%**
+- Ameliorated user engagement by leveraging Large Language Models with the RAG strategy to provide the ideal
+  experience for searching through forums
+- Sped up GitHub Actions build to detect and address issues quicker in the development process, from 12 min average to
   a **6 min** average
-- **Revealed** business continuity gaps by developing Analytics widgets, using React, Recharts, Tailwind, NodeJs, and
-  Azure Postgres Flexible Server.
-- **Improved** system stability by implementing end-to-end type-safe wrappers for emitting and handling system events
-  by Azure Event Grid, improving development and testing efforts by 30%
-- **Led** efforts to migrate to Typescript, and change libraries and common practices to **improve maintainability**,
-  eliminating severe bug reports from 1 per quarter to 0.
-- Developed CLI tools and scripts, in Rust or Nodejs, to automate developer tasks, improving velocity by 25%
-- Maintained an **AKS** (Kubernetes cluster) hosted on **Azure**, resolving region migrations, investigating memory leaks,
+- Revealed business continuity gaps by developing Analytics widgets, using React, Recharts, Tailwind, NodeJs, and
+  Azure Postgres Flexible Server
+- Improved system stability by implementing end-to-end type-safe wrappers for emitting and handling system events
+  by Azure Event Grid, improving development and testing efforts by **30%**
+- Led efforts to migrate to Typescript, and change libraries and common practices to improve maintainability,
+  over gradual refactorings, eliminating severe bug reports from 3 per quarter to **0**
+- Developed CLI tools and scripts, in Rust and Nodejs, to automate developer tasks, improving velocity by **25%**
+- Maintained an AKS (Kubernetes cluster) across **4-5** node pools hosted on Azure, resolving region migrations, investigating memory leaks,
   debugging Kubernetes deployments, etc...
 
-Languages: _Typescript / Node.js / Javascript, Cypher, Python, Go, Rust_  
-Technologies: _Docker, Github Actions, PostgreSQL, Neo4j, MongoDB, Kubernetes, Helm, Prometheus, Redis, Nginx, React, Azure, AWS, Next.js, Jest, Tailwind, Git, Linux, Playwright, Cypress, Generative AI, WebRTC, 100ms SDK, OpenAI_
+#### Volute
 
-#### Front-end Engineer
+_Front End Engineer_ Nov 2021 - Jan 2022
 
-_Volute_ Nov 2021 - Jan 2022
-
-- Optimized application performance, **improving the Lighthouse score** from 17 to 82, achieving a speed index of 1.9
+- Optimized application performance, improving the Lighthouse score from **17 to 82**, achieving a speed index of **1.9**, by
+  dynamically compressing images and applying windowing techniques to large lists
 - Increased development velocity by moving from Create React App (CRA) v4 setup to Next.js 13, resulting in a **6x**
-  reduction in build times.
-- Implemented an audio/video meeting feature, with webRTC, to facilitate user collaborations, thereby increasing user engagement.
+  reduction in build times
+- Implemented an audio/video meeting feature, with webRTC, to facilitate user collaborations, used over 10,000 times
 
-#### Full-stack Engineer
+#### Project New Social LLC
 
-_Project New Social LLC_ Feb 2020 - Nov 2021
+_Tech Lead_ Feb 2020 - Nov 2021
 
-Small startup/team where I was a junior but my responsibility were like one of a Tech lead:
+- Designed and led the development of a social media Progressive Web App to cheaply support Mobile and Desktop
+  devices from one code base using Next.js, Node, Prisma, Postgres, and GraphQL
+- Created and maintained a deployment strategy to serve our **1000+** of concurrent users for under **10 USD** a
+  month, using Docker containers run on a VPS with Docker Swarm
+- Collaborated closely with designers to create reusable and responsive UI components using CSS, Typescript, React.js
+- Managed a typescript monorepo, using Turberepo, to reduce deployment and developer onboarding times by **30%**
 
-- **Designed and led** the development of a social media Progressive Web App to cheaply support **Mobile and Desktop
-  devices from one code base** using Next.js, Node, Prisma, Postgres, and GraphQL
-- Created and maintained a deployment strategy to serve our initial thousands of concurrent users for under 10 USD a
-  month, using **Docker** containers run on a VPS with Docker Swarm
-- Crafted reusable and **responsive UI** components using CSS, Typescript, React.js, and @material-ui to maximize on
-  a reliable user experience
-- Managed a typescript **monorepo**, using Turberepo, to reduce deployment and developer onboarding times by 30%
+#### CollaboraIT Inc.
 
-Languages: _Typescript / Node.js / Javascript, Rust_  
-Technologies: _Docker, Github Actions, PostgreSQL, Prometheus, Portainer, Redis, Nginx, React, Next.js, Jest, Tailwind, Graphql, Git, React Testing Libraries_
-
-#### Core Java Instructor
-
-_CollaboraIT Inc_ Jul. 2020 - Oct. 2020
+_Core Java Instructor_ Jul. 2020 - Oct. 2020
 
 - Enabled the senior instructor in training cohorts of Java developers monthly, teaching core concepts and design
-  patterns, increasing the number of cohorts to pass through by 50%
-- Taught advanced Object and Component design concepts such as **threading**, **polymorphism**, interface design, and
-  **SOLID** principles.
+  patterns, increasing the number of cohorts to pass through by **50%**
+- Taught advanced Object and Component design concepts such as threading, polymorphism, interface design, and
+  SOLID principles
 - Designed a curriculum, in tandem with other instructors to rapidly upskill junior developers to be ready for
-  professional projects in just 8 weeks.
+  professional projects in just **8 weeks**
 
 ## PROJECTS
 
-#### Linux Mouse Driver Engineer (Open Source)
+#### Linux Mouse Driver Engineer
 
 [_maccel_](https://github.com/Gnarus-G/maccel) Jan 2024 - Present
 
-Accessible pointer acceleration **driver** for **Linux** with a simple Terminal UI.
+- Created an open-source mouse pointer acceleration driver for Linux, using kernel modules, earning **40+** github stars
+- Leveraged a simple mathematical formula, implemented in C with fixed point notation, to run
+  the acceleration fastly and consistently
+- Implemented the core driver as an input handler, being the **first** mouse acceleration driver
+  for Linux that supports all mice
+- Designed a Terminal UI, using Rust and the ratatui crate, to provide the best user experience over similar tools
+- Managed onboarding and progress of **2** developers, maintaining expansive documentation to facilitate the process
+- Guaranteed input lag within the range of **20** microseconds and **50** microseconds on average, measuring the time an input event
+  takes to reach user-space, and analyzing stats with Python, pandas and matplotlib
 
-Tech Stack: _C, Rust, Astro, Typescript, Python, Shell_
-
-#### Language Designer / Compiler Engineer (Open Source)
+#### Compiler Engineer
 
 [_rested_](https://github.com/Gnarus-G/rested) Apr 2023 - Apr 2024
 
-Language/**Interpreter** for easily defining and running requests to an HTTP server with **language server integrations**.
+- Developed an open-source domain-specific language (DSL) and interpreter written in Rust for easily defining and
+  executing HTTP requests, providing a streamlined alternative to tools like Postman and curl for API testing, with **5000+** downloads
+- Implemented a comprehensive command-line interface (CLI) with functionalities including running scripts, formatting code,
+  creating snapshots, and managing environment variables, enhancing developer productivity and workflow efficiency
+- Published as a Rust crate on crates.io and as an NPM package, facilitating cross-platform accessibility and seamless integration into various development environments
+- Designed and incorporated features such as global constants, variable bindings, customizable request headers and bodies, file reading capabilities, and dynamic environment variable management within scripts
+- Developed a Language Server Protocol (LSP) server and a Neovim plugin (restedlang.nvim) to provide syntax highlighting and IntelliSense support, improving code readability and developer experience
+<!-- - Utilized modern software development practices and tools, including JSON processing, environment configuration management, and integration with editor tooling, to create a robust and flexible solution for API testing and development. -->
 
-Tech Stack: _Rust, REST, Lua, LSP_
+#### Developer Tools Engineer
 
-#### Desktop App Developer (Open Source)
+[cnat](https://github.com/Gnarus-G/cnat) Feb 2024 - Mar 2024
 
-[mynd](https://github.com/Gnarus-G/mynd) Mar 2024 - Jul 2024
+- Created an open-source tool, using Rust, for systematically modifying class names across a codebase, addressing issues with outdated or inconsistent Tailwind CSS configurations,
+  with over **4000+** downloads
+- Published CNAT as a Rust crate on crates.io and as an NPM package, enabling wide accessibility for developers working in different environments
+- Implemented features to automatically prefix Tailwind class names with a custom prefix (e.g., "legacy-") to facilitate the gradual deprecation of old Tailwind configurations while maintaining backward compatibility
+  <!-- - Designed CNAT to integrate seamlessly with existing projects, allowing developers to incrementally update and modernize their codebases without disrupting ongoing work. -->
+  <!-- - Added support for customizable scopes to target specific locations in the code (e.g., JSX attributes, function calls) where Tailwind classes are used, providing flexibility in class name alterations. -->
+- Developed a user-friendly CLI interface with commands for prefixing class names, generating shell completions, and more, to streamline the tool's usage and integration into development workflows
+  <!-- - Leveraged CNAT to enable safe and efficient transition to new Tailwind CSS configurations, reducing technical debt and enhancing code maintainability. -->
 
-A todo app, in the terminal, in a GUI, or in your editor. Simple and frictionless.
+## Skills/Technologies
 
-Tech Stack: _Rust, Tauri, Svelte, Typescript_
-
-#### Full-stack Developer (Open Source)
-
-[looc.live](https://github.com/Gnarus-G/looc.live) Dec 2022 - May 2024
-
-An **audio/video** communication web-app, for screen-sharing with a peer.
-
-Tech Stack: _webRTC, Svelte, Tailwind, Typescript, Node.js, WebSocket_
-
-#### CLI App Developer (Open Source)
-
-[sciare](https://github.com/Gnarus-G/sciare) Mar 2024 - May 2024
-
-CLI tool to manage documents, allowing for semantic searching, and prompting using the
-**RAG** strategy.
-
-Tech Stack: _Rust, Ollama, Generative AI, SQLite, llama2_
+100ms, Github Actions, Astro, AWS, Azure, C, Cypher, Cypress, Docker, Generative AI, Git, Go, Graphql, Helm, Javascript, Jest, Kubernetes, Libraries, Linux, llama2, LSP, Lua, MongoDB, Neo4j, Next.js, Nginx, Node.js, Ollama, OpenAI, Playwright, Portainer, PostgreSQL, Prometheus, Python, React, Redis, REST, Rust, shadcn/ui, SDK, Shell, SQLite, Svelte, Tailwind, Tauri, Testing, Typescript, WebRTC, WebSocket
 
 ## Education
 
-#### Montgomery College
+Montgomery College _Associates in General Studies, STEM_
 
-_Associates: General Studies, STEM_ 2018 - 2020
+University of Maryland _Bachelor of Science in Computer Engineering_
