@@ -2,7 +2,7 @@
 
 ghislain.deffo31@gmail.com • [Linkedin](https://linkedin.com/in/ghislainDeffo) • [Github](http://github.com/Gnarus-G) • [Blog](https://bytin.tech/blog)
 
-## Work Experience
+## WORK EXPERIENCE
 
 #### Volute
 
@@ -100,11 +100,11 @@ _Core Java Instructor_ Jul. 2020 - Oct. 2020
 - Developed a user-friendly CLI interface with commands for prefixing class names, generating shell completions, and more, to streamline the tool's usage and integration into development workflows
   <!-- - Leveraged CNAT to enable safe and efficient transition to new Tailwind CSS configurations, reducing technical debt and enhancing code maintainability. -->
 
-## Skills/Technologies
+## SKILLS/TECHNOLOGIES
 
 100ms, Github Actions, Astro, AWS, Azure, C, Cypher, Cypress, Docker, Generative AI, Git, Go, Graphql, Helm, Javascript, Jest, Kubernetes, Libraries, Linux, llama2, LSP, Lua, MongoDB, Neo4j, Next.js, Nginx, Node.js, Ollama, OpenAI, Playwright, Portainer, PostgreSQL, Prometheus, Python, React, Redis, REST, Rust, shadcn/ui, SDK, Shell, SQLite, Svelte, Tailwind, Tauri, Testing, Typescript, WebRTC, WebSocket
 
-## Education
+## EDUCATION
 
 Montgomery College _Associates in General Studies, STEM_
 

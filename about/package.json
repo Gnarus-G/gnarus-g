@@ -3,11 +3,15 @@
   "type": "module",
   "version": "0.0.1",
   "scripts": {
-    "dev": "astro dev",
+    "dev": "astro dev & sleep 1",
     "start": "astro dev",
     "build": "astro check && astro build",
     "preview": "astro preview",
-    "astro": "astro"
+    "astro": "astro",
+    "pdf": "bun run download.js",
+    "pdf:watch": "nodemon --watch src --exec 'bun pdf'",
+    "pdf:view": "bun run pdf && firefox ../Ghislain-Resume.pdf",
+    "postdev": "bun run pdf:watch"
   },
   "dependencies": {
     "@astrojs/check": "^0.8.1",
@@ -17,6 +21,8 @@
     "typescript": "^5.5.3"
   },
   "devDependencies": {
-    "@tailwindcss/typography": "^0.5.13"
+    "@tailwindcss/typography": "^0.5.13",
+    "nodemon": "^3.1.4",
+    "playwright": "^1.46.1"
   }
 }
