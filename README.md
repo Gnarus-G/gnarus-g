@@ -2,10 +2,10 @@
 
 Just another fool looking to understand computers, build good user experiences on performant products, and ultimately craft really awesome software.
 
-- 🌱 I’m currently learning how to build cross-platform native applications.
+- 🌱 I’m currently working on improving my math and analytical skills.
 - ⚡ Fun facts:
   - Command Line Applications are almost always superior to their GUI couterparts.
-  - Typescript/React/Node.js is my bread and butter, but I love make CLI apps.
+  - Rust is my bread and butter, and I love to make CLI apps.
 
 <!--
 **Gnarus-G/gnarus-g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
